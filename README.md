@@ -14,4 +14,4 @@ A CampinaTech estima o respeito e a liberdade dos usuários de seus aplicativos,
 Push Notification: O Push Notification é uma funcionalidade que permite que a CampinaTech envie mendagens aos usuários dos aplicativos da CampinaTech a fim de notificá-los sobre um determinado assunto sem o agendamento prévio. A CampinaTech se compromete em enviar apenas caso o usuário autorize essa opção durante o processo de instalação.
 Alterações na Política de Privacidade: A CampinaTech pode adicionar ou alterar os termos de política de privacidade de tempos em tempos e se compromete em notificar seus usuários através de uma nota oficial ou em uma nota de atualização.
 "Como nos contatar"
-Se você tiver quaisquer dúvidas, por favor, faça contato conosco através do e-mail: marciojan2@gmail.com
+Se você tiver quaisquer dúvidas, por favor, faça contato conosco através do e-mail: [marciojan2@gmail.com](marciojan2@gmail.com).
